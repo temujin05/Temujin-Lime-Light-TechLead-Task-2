@@ -8,4 +8,7 @@ function parallaxScroll(){
    $('.item-2').css('top',(200-(scrolled*.6))+'px');
    $('.item-3').css('top',(500-(scrolled*.4))+'px'); 
    $('.item-4').css('top',(600-(scrolled*.5))+'px'); 
+   $('.item-5').css('top',(600-(scrolled*.7))+'px'); 
+   $('.item-6').css('top',(400-(scrolled*.7))+'px'); 
+   $('.item-7').css('top',(600-(scrolled*.5))+'px'); 
 }
